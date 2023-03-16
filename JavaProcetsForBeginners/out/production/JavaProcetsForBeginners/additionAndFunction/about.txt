@@ -1,0 +1,2 @@
+not just a project that adds up the two entered numbers,
+but a beautiful project that does this simple operation using functions will be useful for you in the java learning phase

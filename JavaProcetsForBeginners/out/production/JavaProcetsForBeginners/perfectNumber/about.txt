@@ -1,0 +1,2 @@
+a java project that understands whether a user-entered number is a perfect number.
+perfect numbers are numbers that are equal to the sum of all their exact divisors except itself

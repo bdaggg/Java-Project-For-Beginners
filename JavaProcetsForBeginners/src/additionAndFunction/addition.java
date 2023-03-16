@@ -1,5 +1,4 @@
 package additionAndFunction;
-
 import java.util.Scanner;
 
 public class addition {
@@ -22,7 +21,7 @@ public class addition {
     }
 
     public static void addition(int a,int b) {
-        System.out.println("addition sum:"+(a+b));
+        System.out.println("sum:"+(a+b));
     }
 
 

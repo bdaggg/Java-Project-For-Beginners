@@ -1,0 +1,2 @@
+a nice project that checks whether the value you entered is present in an existing data list.
+it is also a project that tries to explain the use of conditions and cycles

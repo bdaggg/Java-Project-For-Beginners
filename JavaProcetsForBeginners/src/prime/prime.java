@@ -30,7 +30,7 @@ public class prime {
         if(isprime==false) {
             System.out.println("number is not prime");
         }
-        if(isprime==true) {
+        else {
             System.out.println("number is prime");
         }
 
